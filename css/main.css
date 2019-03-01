@@ -4,6 +4,7 @@ html {
 
 .btn {
   background-color: limegreen;
+  border-color: limegreen;
 }
 
 .btn-ghost {
